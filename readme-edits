@@ -1,5 +1,6 @@
 #include<stdio.h>
-int mian()
+int main()
 {
-  printf("CAONIMA");
+  printf("hello world");
+  return 1;
 }
